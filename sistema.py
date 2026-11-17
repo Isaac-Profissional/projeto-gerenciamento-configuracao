@@ -8,3 +8,5 @@ def apresentar_sistema():
     print("Primeira versão do sistema")
 
 apresentar_sistema()
+
+print("Atualização realizada para a atividade prática da faculdade")
